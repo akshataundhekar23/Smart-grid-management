@@ -1,4 +1,4 @@
-⚡ Smart Grid Management
+⚡ Smart Grid Management:
 A project designed to optimize and manage electricity usage through smart grid data analysis and machine learning techniques.
 
 🚀 Features
