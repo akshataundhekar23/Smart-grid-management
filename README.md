@@ -33,3 +33,5 @@ A project designed to optimize and manage electricity usage through smart grid d
 1. Clone this repository  
    ```bash
    git clone https://github.com/akshataundhekar23/Smart-grid-management.git
+   Author-Akshat Aundhekar
+   
